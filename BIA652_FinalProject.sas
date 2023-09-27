@@ -1,13 +1,3 @@
-/*
-BIA 652 : Final Project
-Developers :
-
-Rini Basu
-Harshitha Raghavendra
-Shruti Shete
-
-
-*/
 
 data new_bc;
  set Work.wisc;
